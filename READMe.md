@@ -1,3 +1,4 @@
-# My Fisrt File
+# My First File
 
-This is a example of vreating file
+This is a example of vreating file $$ /mu $$
+
